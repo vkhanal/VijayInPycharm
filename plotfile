@@ -1,0 +1,6 @@
+import matplotlib.pyplot as plt
+import numpy as np
+x = np.arange(0, 2, 0.01)
+y = np.arange(1, 3, 0.01)
+plt.plot(x,y)
+plt.show()
